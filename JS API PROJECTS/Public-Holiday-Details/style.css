@@ -1,0 +1,20 @@
+body {
+  background-image: url("https://images.pexels.com/photos/41949/earth-earth-at-night-night-lights-41949.jpeg?cs=srgb&dl=pexels-pixabay-41949.jpg&fm=jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: whitesmoke;
+
+}
+h1 {
+  text-align: center;
+}
+#container {
+  margin: auto;
+  width: 60%;
+  border: 10px solid #73AD21;
+  padding: 10px;
+  line-height: 2;
+
+}
